@@ -1,0 +1,163 @@
+/* CSS Document */
+
+*{ margin:0; padding:0;}
+a{ text-decoration: none;}
+li{ list-style:none;}
+
+#head{ width:100%; background-color:#fff;}
+#head .head{ width:1067px; height:78px;  overflow:hidden; margin:0 auto; background:url(img/xuexi.png) no-repeat 177px 16px;  background-color:#fff;}
+#head .head .a1{ float:left; display:block; width:168px; height:30px; padding:16px;}
+#head .head ul{ float: left; width:580px; height:78px; margin-left:145px;}
+#head .head ul li{ float:left; width:144px; height:78px; padding-top:0px; overflow:hidden;}
+#head .head ul li:hover a{ background-color:#E4D9D3; border-radius 6px 6px 0 0; border-bottom:2px solid #000;}
+#head .head ul li a{ width:144px; display:block; float:left; text-align:center;height:76px;}
+#head .head ul li a img{ margin-top:10px;}
+#head .head ul li a span{ display:block;}
+#head .head .top-r{ float:right; width:142px; height:78px; background-color:#fff;}
+#head .head .top-r p{ text-align: right; font-size:12px; margin-top:19px; color:#a1968c;}
+#head .head .top-r p a{ margin:0 10px 0 10px; color:#a1968c;}
+#head .head .top-r .p1{ width:142px;}
+#head .head .top-r .text{ float: left; width:122px; border:1px solid #cdb6a1; border-right:none;}
+#head .head .top-r .bot{ float:left; width:19px; border:1px solid #cdb6a1; border-left:none; background:url(img/sousuo.png) no-repeat; background-color:#fff;}
+
+
+#banner{ width:100%;}
+#banner a{display:block; width:100%; }
+#banner a img{ width:100%; display:block;}
+
+#gonggao{ width:100%; background-color:#fff;}
+#gonggao .gonggao{width:1067px; background:url(img/laba.png) no-repeat 21px center;  background-color:#fff; height:37px; margin:0 auto;}
+#gonggao .gonggao .p2{ float:left; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; height:37px; width:336px; font-size:14px; line-height:37px; color:#000; font-family:"宋体"; margin:0; margin-left:52px;}
+#gonggao .gonggao a{ text-align:center; display:block; width:764px;}
+#gonggao .gonggao a img{ text-align:center; margin-top:16px;}
+
+
+#main{ width:100%; background-color:#d6dae2; height:1589px;}
+#main .main{ width:1067px; height:1579px;background-color:#d6dae2; background:url(img/caixian.png) no-repeat center bottom; margin:0 auto; padding-top:20px; }
+#main .main .div1{ width:781px; height:1570px; margin-right:20px; float:left;background-color:#d6dae2;}
+
+#main .main .div1 .div11{ width:781px; height:354px; background-color:#f2f1ef; overflow:hidden;}
+#main .main .div1 .div11 .p11{ float:left; height:52px; width:671px; font-size:22px; line-height:52px; background:url(img/tu1.png) no-repeat left center; padding-left:51px; margin:0;}
+#main .main .div1 .div11 a{ display:block; float:right; height:9px; padding-top:33px; padding-right:20px;color:#888; font-size:8px;}
+#main .main .div1 .div11 ul{ width:781px; float:left;}
+#main .main .div1 .div11 ul li{ width:226px; float:left; height:273px; background-color:#fff; margin:0 10px 0 20px;}
+#main .main .div1 .div11 ul li h5{ width:218px; padding:0 4px 0 4px;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+#main .main .div1 .div11 ul li p{font-size:14px; height:22px; padding:10px 4px 0 4px; line-height:22px; color:#cbcbcb;}
+
+#main .main .div1 .div12{width:781px; height:498px; background-color:#f2f1ef; overflow:hidden; margin-top:20px;}
+#main .main .div1 .div12 .p12{ float:left; height:52px; width:671px; font-size:22px; line-height:52px; background:url(img/shuben.png) no-repeat left center; padding-left:51px; margin:0;}
+#main .main .div1 .div12 a{ display:block; float:right; height:9px; padding-top:33px; padding-right:20px;color:#888; font-size:8px;}
+#main .main .div1 .div12 ul{ float:left; width:741px; padding-left:20px; padding-right:20px; }
+#main .main .div1 .div12 ul li{ float:left; background:url(img/div121.png) no-repeat right center; width:699px; height:85px;margin:10px 0 10px 0;background-color:#fff; padding:20px; }
+#main .main .div1 .div12 ul li img{ float:left;}
+#main .main .div1 .div12 ul li p{ float:left; font-size:18px; margin-left:20px;}
+#main .main .div1 .div12 ul li p .span1{ padding-left:18px; font-size:10px; background:url(img/zhong.png) no-repeat 2px center;}
+#main .main .div1 .div12 ul li p .span2{ font-size:14px;}
+
+#main .main .div1 .div13{ width:781px; height:678px; background-color:#f2f1ef; overflow:hidden;margin-top:20px;}
+#main .main .div1 .div13 .p13{ float:left; height:52px; width:671px; font-size:22px; line-height:52px; background:url(img/shuben.png) no-repeat left center; padding-left:51px; margin:0;}
+#main .main .div1 .div13 a{ display:block; float:right; height:9px; padding-top:33px; padding-right:20px;color:#888; font-size:8px;}
+#main .main .div1 .div13 ul{ width:741px; float:left;}
+#main .main .div1 .div13 ul li{ float:left; margin:20px 20px 20px 20px;border-bottom:1px solid #e4e3e2;}
+#main .main .div1 .div13 ul li img{ float:left;}
+#main .main .div1 .div13 ul li p{  float:left; width:460px; }
+#main .main .div1 .div13 ul li p .span1{ display:block; height:24px; line-height:24px; font-size:20px; color:#000; }
+#main .main .div1 .div13 ul li p .span2{ margin-top:8px;display:block; color:#888; font-size:12px; height:20px; line-height:20px; padding-left:20px; background:url(img/zhong.png) no-repeat left center;}
+#main .main .div1 .div13 ul li p .span3{display:block; color:#000; font-size:14px; height:26px; line-height:26px; margin-top:30px;}
+
+#main .main .div2{ width:266px; height:1569px; float:left; background-color:#fcfafb;}
+#main .main .div2 .p21{ height:59px; font-size:19px; line-height:59px; color:#000; padding-left:30px; background:url(img/top.png) no-repeat 5px center;}
+#main .main .div2 ul{}
+#main .main .div2 ul li a{ color:#000;}
+#main .main .div2 ul .li1{ width:226px;height:144px; margin-left:20px; margin-right:20px;  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+
+/*#main .main .div2 ul .li1 img{ position:absolute;}*/
+#main .main .div2 ul .li1 span{white-space:nowrap;  display:block;overflow:hidden; text-overflow:ellipsis;width:216px; height:26px; position: relative; left:0; bottom:25px; background:rgba(0,0,0,0.5); float:left; background-color:#0FC;color:#FFF;}
+
+#main .main .div2 ul .li2{ width:212px; height:24px; font-size:14px; color:#000; line-height:24px; margin-left:20px; margin-right:20px; white-space: nowrap; overflow:hidden; text-overflow:ellipsis; margin-left:20px; margin-right:20px; padding-left:20px; background:url(img/nu4.png) no-repeat left center;}
+#main .main .div2 .p22{ margin-left:20px; margin-right:20px; height:34px; color:#000;font-size:20px; line-height:34px;border-bottom:1px solid #e4e3e2; padding-bottom:164px; }
+#main .main .div2 .p22 span{ font-size:14px;height:22px; line-height:22px; color:#000; display:block; margin-top:20px;}
+#main .main .div2 .p23{ margin:0px 20px 0px 20px; color:#000; padding:28px; background:url(img/dianhua.png) no-repeat left center;}
+#main .main .div2 .p24{ margin:10px 20px 0 20px; color:#333232; font-size:14px; height:20px; line-height:20px;}
+
+
+#hezuo{ width:100%; background-color:#f6f6f6;}
+#hezuo .hezuo{ width:1064px; height:311px; overflow:hidden; margin:0 auto;}
+#hezuo .hezuo .div1{ float:left; height:311px; width:783px; }
+#hezuo .hezuo .div1 .pingtai{ float:left; width:783px; height:169px;}
+#hezuo .hezuo .div1 .pingtai p{ font-size:14px; margin-top:36px; margin-left:20px;}
+#hezuo .hezuo .div1 .pingtai ul{ margin-left:30px; margin-right:30px; float:left;}
+#hezuo .hezuo .div1 .pingtai ul li{ float:left; margin-left:17px; margin-top:10px;margin-right:16px;} 
+#hezuo .hezuo .div1 .huaban{ float:left; width:783px; height:143px; }
+#hezuo .hezuo .div1 .huaban p{ font-size:14px; margin-top:36px; margin-left:20px;}
+#hezuo .hezuo .div1 .huaban ul{ margin-left:30px; margin-right:30px; float:left;}
+#hezuo .hezuo .div1 .huaban ul li{ float:left; margin-left:10px; margin-right:10px;}
+#hezuo .hezuo .div1 .huaban ul li a{ font-size:12px;color:#999;}
+#hezuo .hezuo .div1 .huaban ul li:hover a{ background-color:#DFDBD2; }
+
+
+#hezuo .hezuo .div2{ width:281px; float:left; height:311px; }
+#hezuo .hezuo .div2 .weibo{ margin-left:35px; margin-top:30px;}
+#hezuo .hezuo .div2 .tubiao{ margin-left:35px; margin-top:10px; padding-left:22px; background:url(img/weibo.png) no-repeat left center;}
+#hezuo .hezuo .div2 .tubiao1{ margin-left:35px; margin-top:10px; padding-left:22px; background:url(img/kongjian.png) no-repeat left center;}
+
+
+#footer{ width:100%; height:102px; background-color:#bababa; overflow:hidden;}
+#footer .footer{ text-align:center; font-size:10px; height:102px; line-height:20px; margin-top:31px;} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
